@@ -1,0 +1,202 @@
+
+#map svg {
+    position: relative;
+    width: 60%;
+    padding-top: 0px !important;
+    height:auto ;  
+}
+.vert{
+    fill: green;
+}
+.bleu{
+    fill: mediumblue;
+}
+.rouge{
+    fill: red;
+}
+.jaune{
+    fill: darkgoldenrod;
+}
+.orange{
+    fill: orange;
+}
+.carte{
+    width: 100%;
+}
+@media only screen and (min-width: 720px) {
+    #map svg {
+        width: 90%;
+        height:auto ;
+    }
+    .tit{
+        font-size: 50px;
+    }
+  }
+  @media only screen and (max-width: 720px) {
+    .tit{
+        font-size: 20px;
+    }
+    #map svg {
+        width: 100%;
+        height:auto ;
+    }
+  }
+#map path{
+    stroke: #ffffff;
+    stroke-width: 2px;
+}
+a[id^=MD]:hover>path {
+    fill: greenyellow;
+}
+a[id^=MD]:hover>text {
+    fill-opacity: 1s !important;
+    font-size: 30px;
+    position: absolute;
+    z-index: 99;
+}
+.mada{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.header2 {
+	position: relative;
+	overflow: hidden;
+	padding-top: 150px;
+	padding-bottom: 250px;
+	background-image: url('../img/4.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+	clip-path: ellipse(76% 80% at 60.44% 10%);
+}
+
+.header2 .text-container {
+	margin-bottom: 200px;
+}
+
+.header2 .p-large {
+	font-size: 23px;
+	margin-bottom: 10px;
+	color: #ffffff;
+}
+
+.header2 .ocean { 
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	background: #ffffff;
+}
+.titre4{
+    color: #fff;
+    font-size: 40px;
+}
+.header3 {
+	position: relative;
+	overflow: hidden;
+	padding-top: 150px;
+	padding-bottom: 250px;
+	background:  linear-gradient(
+		rgba(0, 0, 0, 0.4), 
+		rgba(0, 0, 0, 0.4)
+	  ), url('../img/11.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: ellipse(86% 80% at 50.44% 10%);
+}
+.pilier{
+    padding-top: 5%;
+    text-align: center;
+}
+.pilfont{
+    color: #fff;
+}
+
+.header3 .text-container {
+	margin-bottom: 200px;
+}
+
+.header3 .p-large {
+	font-size: 23px;
+	margin-bottom: 10px;
+	color: #ffffff;
+}
+
+.header3 .ocean { 
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	background: #ffffff;
+}
+
+.parallax3 {
+	text-align: center;
+	background:   linear-gradient(
+		rgba(0, 0, 0, 0.4), 
+		rgba(0, 0, 0, 0.4)
+	  ), url('../img/7.jpg');
+	height: 100%;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-bottom: 30%;
+	clip-path: ellipse(68% 80% at 50.44% 10%);
+  }
+  .arrondi3{
+	  background-color: #ffffff;
+	  height: 40%;
+	  width: 100%;
+	  display: block;
+	  box-sizing: border-box;
+	  clip-path: ellipse(62% 80% at 60.44% 10%);
+  }
+  .top{
+	  width: 1px;
+	  height: auto;
+  }
+  .header4 .text-container {
+	margin-bottom: 200px;
+}
+
+.header4 .ocean { 
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	background: #ffffff;
+}
+.header4 .p-large {
+	font-size: 23px;
+	margin-bottom: 10px;
+	color: #ffffff;
+}
+.header4 {
+	position: relative;
+	overflow: hidden;
+	padding-top: 150px;
+	padding-bottom: 250px;
+	background:  linear-gradient(
+		rgba(0, 0, 0, 0.4), 
+		rgba(0, 0, 0, 0.4)
+	  ), url('../img/8.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+    clip-path: ellipse(86% 80% at 50.44% 10%);
+}
+.backg{
+    position: relative;
+	background:  linear-gradient(
+		rgba(0, 0, 0, 0.4), 
+		rgba(0, 0, 0, 0.4)
+	  ), url('../Img/9.jpg');
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
