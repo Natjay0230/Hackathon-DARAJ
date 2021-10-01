@@ -28,7 +28,7 @@ html {
 	overflow: hidden;
 	padding-top: 150px;
 	padding-bottom: 250px;
-	background-image: url('../../assets/img/6.jpg');
+	background-image: url('./img/6.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -58,7 +58,7 @@ html {
 }
 
 .header .wave {
-	background: url('../../assets/img/wave.svg') repeat-x; 
+	background: url('./img/wave.svg') repeat-x; 
 	position: absolute;
 	top: -190px;
 	width: 6400px;
@@ -107,7 +107,7 @@ html {
 	background:   linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../../assets/img/1.jpg');
+	  ), url('./img/1.jpg');
 	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
@@ -150,7 +150,7 @@ html {
 	background: linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../../assets/img/5.jpg');
+	  ), url('./img/5.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
