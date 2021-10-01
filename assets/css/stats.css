@@ -180,7 +180,7 @@ a[id^=MD]:hover>text {
 	background:  linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../../assets/img/8.jpg');
+	  ), url('./img/8.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
