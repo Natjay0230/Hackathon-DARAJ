@@ -63,7 +63,7 @@ a[id^=MD]:hover>text {
 	overflow: hidden;
 	padding-top: 150px;
 	padding-bottom: 250px;
-	background-image: url('../img/4.jpg');
+	background-image: url('./assets/Img/4.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -99,7 +99,7 @@ a[id^=MD]:hover>text {
 	background:  linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../img/11.jpg');
+	  ), url('./assets/Img/11.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -136,7 +136,7 @@ a[id^=MD]:hover>text {
 	background:   linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../img/7.jpg');
+	  ), url('./assets/Img/7.jpg');
 	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
@@ -180,7 +180,7 @@ a[id^=MD]:hover>text {
 	background:  linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../img/8.jpg');
+	  ), url('./assets/Img/8.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -192,7 +192,7 @@ a[id^=MD]:hover>text {
 	background:  linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../Img/9.jpg');
+	  ), url('./assets/Img/9.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;

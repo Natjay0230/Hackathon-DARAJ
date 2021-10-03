@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 class Requete extends Connect{
@@ -132,5 +133,6 @@ class Requete extends Connect{
         return $data;
     }
 }
+
 
 

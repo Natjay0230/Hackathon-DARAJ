@@ -34,7 +34,7 @@
 	background:  linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../Img/8.jpg');
+	  ), url('./assets/Img/8.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -47,7 +47,7 @@
 	background:  linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('../Img/9.jpg');
+	  ), url('./assets/Img/9.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
