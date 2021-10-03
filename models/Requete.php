@@ -117,12 +117,14 @@ class Requete extends Connect{
     {
     $db = $this->dbConnect();
 			$q = $db->prepare('
-            SELECT DISTINCT technique.id_technique, technique.nom_technique, technique.descri_technique, probleme.descri_probleme
+            SELECT DISTINCT image.lien_image, technique.id_technique, technique.nom_technique, technique.descri_technique, probleme.descri_probleme
             from technique
             INNER JOIN probleme_technique
             on technique.id_technique=probleme_technique.id_technique
             INNER JOIN probleme
             ON probleme.id_probleme=probleme_technique.id_probleme
+            INNER JOIN image
+            ON image.id_technique = technique.id_technique
             WHERE probleme.id_probleme=?
 			');
         $q->execute(array(intval($id)));
