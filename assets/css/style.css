@@ -28,7 +28,7 @@ html {
 	overflow: hidden;
 	padding-top: 150px;
 	padding-bottom: 250px;
-	background-image: url('./assets/Img/6.jpg');
+	background-image: url('https://agrii-afaas-daraj.herokuapp.com/assets/Img/6.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
