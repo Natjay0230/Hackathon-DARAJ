@@ -58,7 +58,7 @@ html {
 }
 
 .header .wave {
-	background: url('./assets/Img/wave.svg') repeat-x; 
+	background: url('https://agrii-afaas-daraj.herokuapp.com/assets/Img/wave.svg') repeat-x; 
 	position: absolute;
 	top: -190px;
 	width: 6400px;
@@ -107,7 +107,7 @@ html {
 	background:   linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('./assets/Img/1.jpg');
+	  ), url('https://agrii-afaas-daraj.herokuapp.com/assets/Img/1.jpg');
 	height: 100%;
 	background-attachment: fixed;
 	background-position: center;
@@ -150,7 +150,7 @@ html {
 	background: linear-gradient(
 		rgba(0, 0, 0, 0.4), 
 		rgba(0, 0, 0, 0.4)
-	  ), url('./assets/Img/5.jpg');
+	  ), url('https://agrii-afaas-daraj.herokuapp.com/assets/Img/5.jpg');
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
