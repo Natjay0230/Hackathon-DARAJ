@@ -101,7 +101,7 @@
                     <a href="#!" class="text-white">Tel: +261 34 80 466 42 </a>
                   </li>
                   <li>
-                    <a href="#!" class="text-white">Gmail: nyaiansoa.andria@gmail.com </a>
+                    <a href="#!" class="text-white">Gmail: nyainasoa.andria@gmail.com </a>
                   </li>
                   <li>
                     <a href="#!" class="text-white">Facebook: Ny Ainasoa ANDRIAMAMPITA</a>
