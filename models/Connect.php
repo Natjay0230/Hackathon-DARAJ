@@ -1,9 +1,13 @@
 <?php
+
+        
+
     class Connect{
-        private $_dbHost = 'localhost';
+        /* private $_dbHost = 'localhost';
         private $_dbUser = 'root';
         private $_dbPassword = '';
-        private $_dbName = 'agri_afaas';
+        private $_dbName = 'agri_afaas'; */
+        $mysqli = new mysqli("remotemysql.com","dXZoqjEKHq","dxBedG2XYi","dXZoqjEKHq");
 
         protected function dbConnect(){
             try{
