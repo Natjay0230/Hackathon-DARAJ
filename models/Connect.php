@@ -5,7 +5,7 @@
     class Connect{
         private $_dbHost = 'remotemysql.com';
         private $_dbUser = 'dXZoqjEKHq';
-        private $_dbPassword = 'dxBedG2XYi';
+        private $_dbPassword = 'Ew3dWUaXP7';
         private $_dbName = 'dXZoqjEKHq';
         /* $mysqli = new mysqli("remotemysql.com","dXZoqjEKHq","dxBedG2XYi","dXZoqjEKHq"); */
 
