@@ -8,4 +8,4 @@ Membre du groupe :
 - Jérémie ANDRIANAIVO
 - Ny Ainasoa ANDRIAMAMPITA
 - ANONA Tréal Darcia
-- Abdoul ISMAEL
+- ISMAEL Abdoul
