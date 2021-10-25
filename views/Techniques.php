@@ -50,7 +50,7 @@
             <?php $tech = $requete->getTechnique($valpb['id_probleme']);?>
             <?php foreach ($tech as $val2): ?>
                 <div class="card">
-                  <img class="card-img-top tete" src="assets/image/technique/<?=$val2['id_image']?>" alt="aa">
+                  <img class="card-img-top tete" src="assets/image/technique/<?=$val2['lien_image']?>" alt="aa">
                   <div class="card-body solution">
                     <h5 class="card-title"><?=$val2['nom_technique']?></h5>
                     <p class="card-text">
