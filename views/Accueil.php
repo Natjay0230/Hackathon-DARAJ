@@ -123,7 +123,16 @@
                 <a href="#!" class="text-white">FCA</a>
               </li>
               <li>
-                <a href="#!" class="text-white">HAVANA</a>
+                <a href="#!" class="text-white">AVANA hub</a>
+              </li>
+              <li>
+                <a href="#!" class="text-white">CAADP</a>
+              </li>
+              <li>
+                <a href="#!" class="text-white">AFAAS</a>
+              </li>
+              <li>
+                <a href="#!" class="text-white">JL IFAD</a>
               </li>
             </ul>
           </div>
