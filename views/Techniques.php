@@ -85,10 +85,19 @@
       
                 <ul class="list-unstyled mb-0">
                   <li>
-                    <a href="#!" class="text-white">FCA</a>
+                    <a href="https://fca-madagascar.org/" class="text-white">FCA</a>
                   </li>
                   <li>
-                    <a href="#!" class="text-white">HAVANA</a>
+                    <a href="https://www.facebook.com/AVANA-HUB-222214588337602/" class="text-white">AVANA hub</a>
+                  </li>
+                  <li>
+                    <a href="https://www.asareca.org/page/caadp-xp4-project" class="text-white">CAADP</a>
+                  </li>
+                  <li>
+                    <a href="https://www.afaas-africa.org/fr/home-francais/" class="text-white">AFAAS</a>
+                  </li>
+                  <li>
+                    <a href="https://www.ifad.org/fr/" class="text-white">JL IFAD</a>
                   </li>
                 </ul> 
               </div>
