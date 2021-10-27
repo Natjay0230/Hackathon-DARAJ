@@ -107,16 +107,16 @@
       
                 <ul class="list-unstyled">
                   <li>
-                    <a href="#!" class="text-white">Tel: +261 34 80 466 42 </a>
+                    <a class="text-white">Tel: +261 34 80 466 42 </a>
                   </li>
                   <li>
-                    <a href="#!" class="text-white">Gmail: nyainasoa.andria@gmail.com </a>
+                    <a class="text-white">Gmail: nyainasoa.andria@gmail.com </a>
                   </li>
                   <li>
-                    <a href="#!" class="text-white">Facebook: Ny Ainasoa ANDRIAMAMPITA</a>
+                    <a href="https://www.facebook.com/ainasoa.robdera" class="text-white">Facebook: Ny Ainasoa ANDRIAMAMPITA</a>
                   </li>
                   <li>
-                    <a href="#!" class="text-white">Linkedin: Jérémie ANDRIANAIVO</a>
+                    <a href="https://www.linkedin.com/in/j%C3%A9r%C3%A9mie-andrianaivo-146108210/" class="text-white">Linkedin: Jérémie ANDRIANAIVO</a>
                   </li>
                 </ul>
               </div>
